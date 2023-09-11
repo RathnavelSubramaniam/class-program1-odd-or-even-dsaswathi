@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "javac oddoreven.java && java oddoreven",
+      "input": "",
+      "output": "The given number is ODD",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
